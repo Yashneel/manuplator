@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+.copyrightimg{
+    text-align: center;
+position: fixed;
+bottom: 0;
+width: 100%;
+color: green;
+background-color: darkorange;
+line-height: 3;
+}
+.note{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
